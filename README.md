@@ -1,6 +1,6 @@
 # My-Profile
 
-# Hi, I'm Sumi Kamodkar
+# Hi, I'm Sumit Kamodkar
 
 Aspiring Frontend & Python Developer, responsive and user-friendly web applications.
 
